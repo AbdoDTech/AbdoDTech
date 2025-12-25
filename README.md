@@ -1,28 +1,9 @@
-<div align="center" width="50">
-
-<img src="https://github.com/AbdoDTech/AbdoDTech/blob/main/github-head-2.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong> <summary>  Building systems & shipping products while listening to :   </summary> </strong></p>
-
-[![youtube](https://www.youtube.com/watch?v=oOi3oJmfz4o)] <br>
-
-</details>
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=abdurrahmane&style=flat&color=orange&label=PROFILE+VIEWS)
-![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdurrahmane&count_bg=%2379C83D&title_bg=%23555555&title=HITS)
-
-<br>
-
+<div>
+<h2>👋Hello I"m Abderrahmane Sahi </h2>
+<p>Full-Stack Developer & System Builder</p>
 </div>
 
-<hr>
-
-## 👋 About Me
-
-I’m **Abdurrahman**, a **Full-Stack Developer & System Builder**.
-
+##  About Me
 - 5+ years of coding experience  
 - Strong background in **Laravel & React**
 - Building **ERP systems, SaaS tools, WooCommerce plugins**
